@@ -1,4 +1,4 @@
-# JPA One-To-One Relationship Bidirectional Mapping using Foreign Key Example with Spring Boot, Maven, and MySQL
+# JPA One-To-One Foreign Key Relationship Mapping Example with Spring Boot, Maven and MySQL
 
 ## Guide
 http://hellokoding.com/jpa-one-to-one-relationship-example-with-spring-boot-maven-and-mysql/
