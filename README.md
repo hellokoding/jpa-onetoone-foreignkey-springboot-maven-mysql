@@ -1,7 +1,7 @@
 # JPA One-To-One Foreign Key Relationship Mapping Example with Spring Boot, Maven and MySQL
 
 ## Guide
-http://hellokoding.com/jpa-one-to-one-relationship-example-with-spring-boot-maven-and-mysql/
+http://hellokoding.com/jpa-one-to-one-foreignkey-relationship-example-with-spring-boot-maven-and-mysql/
 
 ## Prerequisites
 - JDK 1.8 or later
