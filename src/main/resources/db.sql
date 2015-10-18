@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `jpa_onetoone`;
-USE `jpa_onetoone`;
+CREATE DATABASE  IF NOT EXISTS `jpa_onetoone_foreignkey`;
+USE `jpa_onetoone_foreignkey`;
 
 --
 -- Table structure for table `book_detail`
